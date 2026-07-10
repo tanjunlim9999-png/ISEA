@@ -1,7 +1,6 @@
-echo "# ISEA" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/tanjunlim9999-png/ISEA.git
-git push -u origin main
+ISEA Assignment Repository
+Student: Tan Jun Lim
+
+Module: BRG27-ISEA - Introduction to Server Environments and Architectures
+
+This repository contains the configuration files, Bash scripts, and technical documentation generated during the intensive lab sessions.
