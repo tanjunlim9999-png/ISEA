@@ -6,7 +6,7 @@ Step 1. Go to https://www.virtualbox.org/ to download and install the Oracle Vir
 
 
 
-<img width="2846" height="934" alt="image" src="https://github.com/user-attachments/assets/64965a89-d331-4da5-973f-e72f25a9443a" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/64965a89-d331-4da5-973f-e72f25a9443a" />
 
 
 
@@ -14,7 +14,7 @@ Step 2. Go to https://ubuntu.com/download/desktop to download latest Ubuntu Desk
 
 
 
-<img width="2848" height="1404" alt="image" src="https://github.com/user-attachments/assets/87bfaab4-3421-4263-95a8-b34847fd7e5a" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/87bfaab4-3421-4263-95a8-b34847fd7e5a" />
 
 
 
@@ -24,7 +24,7 @@ Step 4. Name the VM accordingly and choose the downloaded Ubuntu ISO file as ISO
 
 
 
-<img width="1598" height="1096" alt="image" src="https://github.com/user-attachments/assets/7b2de89a-6141-4f7c-8f36-6cfa33ad60bf" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/7b2de89a-6141-4f7c-8f36-6cfa33ad60bf" />
 
 
 
@@ -32,7 +32,7 @@ Step 5. Specify the virtual hardware, Make sure to allocate wisely to avoid star
 
 
 
-<img width="1272" height="296" alt="image" src="https://github.com/user-attachments/assets/9a3eb325-cab6-4fb2-8119-a460d08be620" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/9a3eb325-cab6-4fb2-8119-a460d08be620" />
 
 
 
@@ -44,7 +44,7 @@ Step 8. After setting up the account, Ubuntu desktop is ready to use
 
 
 
-<img width="1916" height="1234" alt="image" src="https://github.com/user-attachments/assets/e5e1043b-0cfa-47f9-8329-3d90e83cd470" />  
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/e5e1043b-0cfa-47f9-8329-3d90e83cd470" />  
 
 
 
