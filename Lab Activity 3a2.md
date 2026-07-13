@@ -4,7 +4,7 @@ The process is explained well on Lab Activity 3a1
 
 Here are some additional reflection questions:  
 
-## Refelction Questions  
+## Reflection Questions  
 
 * Why is HTTPS important for modern web applications?
 
